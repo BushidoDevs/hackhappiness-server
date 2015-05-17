@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Geeks2Team/hackhappiness-server",
   "dependencies": {
     "deployd": "^0.8.2"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
