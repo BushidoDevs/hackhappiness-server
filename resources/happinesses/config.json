@@ -21,7 +21,6 @@
 			"name": "latlong",
 			"type": "object",
 			"typeLabel": "object",
-			"required": true,
 			"id": "latlong",
 			"order": 2
 		},
@@ -29,7 +28,6 @@
 			"name": "city",
 			"type": "string",
 			"typeLabel": "string",
-			"required": true,
 			"id": "city",
 			"order": 3
 		},
@@ -37,7 +35,6 @@
 			"name": "country",
 			"type": "string",
 			"typeLabel": "string",
-			"required": true,
 			"id": "country",
 			"order": 4
 		}
