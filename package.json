@@ -4,6 +4,7 @@
   "description": "Server for HackhAPPiness",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,7 +18,8 @@
   },
   "homepage": "https://github.com/Geeks2Team/hackhappiness-server",
   "dependencies": {
-    "deployd": "^0.8.2"
+    "deployd": "^0.8.2",
+    "throng": "^1.0.0"
   },
   "engines": {
     "node": "0.10.x"
