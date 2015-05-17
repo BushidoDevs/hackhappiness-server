@@ -1,0 +1,45 @@
+{
+	"type": "Collection",
+	"properties": {
+		"level": {
+			"name": "level",
+			"type": "number",
+			"typeLabel": "number",
+			"required": true,
+			"id": "level",
+			"order": 0
+		},
+		"message": {
+			"name": "message",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "message",
+			"order": 1
+		},
+		"latlong": {
+			"name": "latlong",
+			"type": "object",
+			"typeLabel": "object",
+			"required": true,
+			"id": "latlong",
+			"order": 2
+		},
+		"city": {
+			"name": "city",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "city",
+			"order": 3
+		},
+		"country": {
+			"name": "country",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "country",
+			"order": 4
+		}
+	}
+}
