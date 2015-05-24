@@ -17,11 +17,11 @@
 			"id": "message",
 			"order": 1
 		},
-		"latlong": {
-			"name": "latlong",
+		"latlng": {
+			"name": "latlng",
 			"type": "object",
 			"typeLabel": "object",
-			"id": "latlong",
+			"id": "latlng",
 			"order": 2
 		},
 		"city": {
