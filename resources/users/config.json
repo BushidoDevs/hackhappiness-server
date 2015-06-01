@@ -1,12 +1,12 @@
 {
 	"type": "UserCollection",
 	"properties": {
-		"name": {
-			"name": "name",
+		"firstName": {
+			"name": "firstName",
 			"type": "string",
 			"typeLabel": "string",
 			"required": true,
-			"id": "name",
+			"id": "firstName",
 			"order": 0
 		}
 	}
