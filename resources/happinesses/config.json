@@ -25,13 +25,13 @@
 			"id": "message",
 			"order": 2
 		},
-		"latlng": {
-			"name": "latlng",
-			"type": "object",
-			"typeLabel": "object",
-			"id": "latlng",
+		"loc": {
+			"name": "loc",
+			"type": "array",
+			"typeLabel": "array",
+			"id": "loc",
 			"order": 3,
-			"required": false
+			"required": true
 		},
 		"city": {
 			"name": "city",
